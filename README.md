@@ -1,6 +1,8 @@
 # LDCformer_Ext
 
-### Enhancing Learnable Descriptive Convolutional Vision Transformer for Face Anti-Spoofing via
+### Enhancing Learnable Descriptive Convolutional Vision Transformer for Face Anti-Spoofing  
+
+This is the extension version from our previous paper in  LDCformer: Incorporating Learnable Descriptive Convolution to Vision Transformer for Face Anti-Spoofing (ICIP '23) 
 
 ## Illustration of the architecture of our extended version of LDCformer.
 ![plot](figures/framework.png)
@@ -27,11 +29,20 @@ run `test.py`
 
 If you use the LDCformer, please cite the paper:
 
-```
-@article{huang2024enhancing},
-  title={},
-  author={},
-  year={}
+ ```
+@inproceedings{huang2023ldcformer,
+  title={LDCformer: Incorporating Learnable Descriptive Convolution to Vision Transformer for Face Anti-Spoofing},
+  author={Huang, Pei-Kai and Chiang, Cheng-Hsuan and Chong, Jun-Xiong and Chen, Tzu-Hsien and Ni, Hui-Yu and Hsu, Chiou-Ting},
+  booktitle={2023 IEEE International Conference on Image Processing (ICIP)},
+  pages={121--125},
+  year={2023},
+  organization={IEEE}
+}
+ @inproceedings{huang2022learnable,
+  title={Learnable Descriptive Convolutional Network for Face Anti-Spoofing},
+  author={Huang, Pei-Kai and H.Y. Ni and Y.Q. Ni and C.T. Hsu},
+  booktitle={BMVC},
+  year={2022}
 }
 ```
 
