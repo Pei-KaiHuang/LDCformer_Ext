@@ -3,7 +3,7 @@
 ### Enhancing Learnable Descriptive Convolutional Vision Transformer for Face Anti-Spoofing via
 
 ## Illustration of the architecture of our extended version of LDCformer.
-![plot](figures/framework.jpg)
+![plot](figures/framework.png)
 
 ## Requirements
 ```
