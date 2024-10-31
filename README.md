@@ -28,7 +28,7 @@ run `test.py`
 If you use the LDCformer, please cite the paper:
 
 ```
-@article{Enhancing,
+@article{huang2024enhancing},
   title={},
   author={},
   year={}
